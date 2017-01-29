@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE questions SYSTEM "questions.dtd">
+
+<questions>
+
+   	<question id="UAP_HE1">
+		<type>radio</type>
+		<title>1.- Selecciona los reyes españoles cronologicamente :</title>
+		<option>a) Felipe III, Carlos II, Isabel I, Luis I</option>
+		<option>b) Carlos II, Isabel I, Luis I, Felipe III</option>
+		<option>c) Isabel I, Felipe III, Carlos II, Luis I</option>
+		<option>d) Isabel I, Felipe III, Luis I, Carlos II</option>
+		<answer>2</answer>
+	</question>
+	
+	<question id="UAP_HE2">
+		<type>checkbox</type>
+		<title>2.- ¿Quién fue el presidente de la segunda república?</title>
+		<option>a) Manuel Azaña</option>
+		<option>b) Francisco Franco</option>
+		<option>c) Niceto Alcalá-Zamora</option>
+		<answer>2</answer>
+	</question>
+
+	<question id="UAP_HE3">
+		<type>text</type>
+		<title>3.- ¿Quien descubrió América?</title>
+		<answer>Cristobal Colón</answer>
+	</question>
+
+	<question id="UAP_HE4">
+		<type>multiple</type>
+			<title>4.- ¿Quién de estos pueblos invadió España?</title>
+			<option>a) Los visigodos</option>
+			<option>b) Los musulmanes</option>
+			<option>c) Los Germanos</option>
+			<option>d) Los Americanos</option>
+			<answer>0</answer>
+			<answer>1</answer>
+	</question>	
+
+   	<question id="UAP_HE5">
+		<type>radio</type>
+		<title>5.- Ordena cronológicamente las siguientes épocas :</title>
+		<option>a) La reconquista, La guerra civil, El reinado de Pepe Botella, La segunda república</option>
+		<option>b) La reconquista, La guerra civil, La segunda república, El reinado de Pepe Botella</option>
+		<option>c) El reinado de Pepe Botella, La reconquista, La guerra civil, La segunda república</option>
+		<option>d) La reconquista, El reinado de Pepe Botella, La segunda república, La guerra civil</option>
+		<answer>3</answer>
+	</question>
+
+	<question id="UAP_HE6">
+		<type>select</type>
+		<title>6.- ¿En qué año se descubrió América?</title>
+		<option>a) 1592</option>
+		<option>b) 1462</option>
+		<option>c) 1492</option>
+		<option>d) 1249</option> 
+		<answer>2</answer>
+	</question>
+
+	<question id="UAP_HE7">
+		<type>multiple</type>
+			<title>7.- ¿Cuál de estas lenguas no se habla en España?</title>
+			<option>a) Gallego</option>
+			<option>b) Italiano</option>
+			<option>c) Francés</option>
+			<option>d) Aranes</option>
+			<answer>1</answer>
+			<answer>2</answer>
+	</question>	
+
+	<question id="UAP_HE8">
+		<type>checkbox</type>
+		<title>8.- ¿Quién fue el primer/a rey/reina español/a?</title>
+		<option>a) Fernando III</option>
+		<option>b) Isabel I</option>
+		<option>c) Carlos I</option>
+		<answer>1</answer>
+	</question>
+	
+	<question id="UAP_HE9">
+		<type>select</type>
+		<title>9.- ¿En qué año fue la constitución de la Pepa?</title>
+		<option>a) 1821</option>
+		<option>b) 1912</option>
+		<option>c) 1812</option>
+		<option>d) 1752</option> 
+		<answer>3</answer>
+	</question>
+
+	<question id="UAP_HE10">
+		<type>text</type>
+		<title>10.- ¿El español viene del latín?</title>
+		<answer>si</answer>
+	</question>
+
+</questions>
